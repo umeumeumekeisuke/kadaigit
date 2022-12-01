@@ -1,9 +1,6 @@
 package jp.ac.uryukyu.ie.e225729;
-
-
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-
 class WarriorTest {
 
     @Test void attackWithWeaponSkillTest() {
@@ -18,3 +15,4 @@ class WarriorTest {
             }
     }
 }
+
